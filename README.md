@@ -56,7 +56,7 @@
 
 ---
 
-<h2 style="color:#F77F00; animation: fadeIn 1s ease-in-out;">🛠️ Projects in Progress</h2>
+<h2 style="color:#F77F00; animation: fadeIn 1s ease-in-out;">🛠️ Projects </h2>
 
 - 🎨 **Style Transfer using Deep Learning (CNN)**  
 - 🧠 **Face Recognition using OpenCV**  
