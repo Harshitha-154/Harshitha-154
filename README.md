@@ -4,9 +4,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🌟%20About%20Me-F72585?style=for-the-badge" />
-</h2>
+## 🌟 About Me
 
 💫 I'm a passionate developer diving into:
 - 🤖 AI, Machine Learning & Deep Learning  
@@ -17,9 +15,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/💻%20Tech%20Stack%20&%20Tools-3A0CA3?style=for-the-badge" />
-</h2>
+## 💻 Tech Stack & Tools
 
 ### 🖥️ Languages  
 <p align="center">
@@ -61,9 +57,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🚀%20Current%20Focus-4895EF?style=for-the-badge" />
-</h2>
+## 🚀 Current Focus
 
 - 💡 Real-world project development  
 - 🤖 Advanced AI & ML algorithms  
@@ -72,9 +66,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🛠️%20Projects%20in%20Progress-7209B7?style=for-the-badge" />
-</h2>
+## 🛠️ Projects in Progress
 
 - 🎨 **Style Transfer using Deep Learning (CNN)**  
 - 🧠 **Face Recognition using OpenCV**  
@@ -83,9 +75,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/📚%20Learning%20Journey-B5179E?style=for-the-badge" />
-</h2>
+## 📚 Learning Journey
 
 - 🤝 Open Source Projects  
 - 🏆 Hackathon Participation  
@@ -94,9 +84,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/📈%20GitHub%20Stats-4361EE?style=for-the-badge" />
-</h2>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshithaSudhakar&show_icons=true&theme=tokyonight" height="150" />
@@ -105,9 +93,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🌐%20Let's%20Connect-3A0CA3?style=for-the-badge" />
-</h2>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshitha-sudhakar-a1b47b373/" target="_blank">
