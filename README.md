@@ -87,8 +87,8 @@
   <a href="https://www.linkedin.com/in/harshitha-sudhakar-a1b47b373/">
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/>
   </a>
-  <a href="https://my-portfolio-six-eta-68.vercel.app/">
-    <img src="https://img.icons8.com/fluency/48/domain.png"/>
+  <a href="https://portfolioharshitha.netlify.app/" target="_blank" rel="noopener">
+      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" />
   </a>
   <a href="mailto:harshithasudhakar06@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
